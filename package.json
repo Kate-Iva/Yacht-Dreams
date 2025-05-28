@@ -1,11 +1,11 @@
 {
-  "name": "project-0lympica",
+  "name": "Yacht-Dream",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-0lympica/",
+    "build": "vite build --base=/Yacht-Dream/",
     "preview": "vite preview"
   },
   "devDependencies": {
